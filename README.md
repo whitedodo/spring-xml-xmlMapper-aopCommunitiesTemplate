@@ -33,7 +33,7 @@
 #####    (Implemented in XML environment setting method and XML Mapper method.)
 
 ### 2. 시연(Practice)
-
+##### 1. Spring Framework 4.2.4, Xml Config, Xml Mapper, MyBatis, HikariCP, Member AOP, Board 구현, https://youtu.be/ImyWMs_0lsE, Accessed by 2020-10-15, Last Modified 2020-10-15.
 
 ### 3. 참고자료(References)
 ##### 1. MyBatis - 마이바티스 3 | 매퍼 XML 파일, https://mybatis.org/mybatis-3/ko/sqlmap-xml.html, Accessed by 2020-10-12, Last Modified 2020-07-10.
